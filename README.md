@@ -1,11 +1,6 @@
  ![MasterHead](https://www.kampuskod.com/wp-content/uploads/2020/12/frontend-teknolojileri.png)
  
 <h2>Hi 👋, I'm Kübra Topçuoğlu</h2>
-<h3 >A passionate frontend developer from Turkey. 
-I am 4th grade Student at METU.</h3>
-
-- 🔭 I’m currently working on **React**
-
 - 📫 How to reach me: kubra.topcuoglu@studio.unibo.it
 
 <h3 align="left">Connect with me: **https://www.linkedin.com/in/k%C3%BCbra-top%C3%A7uo%C4%9Flu-0a45111b7/** </h3>
