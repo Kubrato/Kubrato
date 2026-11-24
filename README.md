@@ -1,5 +1,7 @@
 # Hi, I'm Kübra 👋
 
+🌐 **Portfolio:** [kubrato.github.io](https://kubrato.github.io) · 📄 [CV (PDF)](https://kubrato.github.io/cv.pdf)
+
 I work where **technology, processes and the humanities** meet. I'm an MSc student in Digital Humanities and Digital Knowledge at the University of Bologna, with a background in computer education, almost two years as a Business Analyst in R&D, and hands-on front-end development.
 
 Right now I'm exploring how AI agents can support cultural heritage work, especially the digitisation of archives and library collections, and how formalising processes and requirements can make AI systems more reliable.
